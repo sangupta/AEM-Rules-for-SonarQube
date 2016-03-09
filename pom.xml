@@ -53,7 +53,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sonar.version>4.5.6</sonar.version>
+        <sonar.version>5.1</sonar.version>
         <sonar.java.plugin>3.9</sonar.java.plugin>
     </properties>
 
